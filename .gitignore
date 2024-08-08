@@ -133,6 +133,7 @@ celerybeat.pid
 .venv
 env/
 credentials.json
+db_credentials.json
 venv/
 ENV/
 env.bak/
